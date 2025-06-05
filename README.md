@@ -1,0 +1,2 @@
+# EverydaySample
+A Sweepstakes Website
